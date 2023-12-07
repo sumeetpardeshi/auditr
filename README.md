@@ -27,7 +27,7 @@ An End-to-End testing framework with visual testcases
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@octokatherine](https://www.github.com/sumeetpardeshi)
 
 
 ## Demo
