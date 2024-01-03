@@ -22,17 +22,13 @@ An End-to-End testing framework with visual testcases
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](documentation/v0%20-%20get%20api%20validation%20working.png)
 
 
 ## Authors
 
 - [@sumeetpardeshi](https://www.github.com/sumeetpardeshi)
 
-
-## Demo
-
-Insert gif or link to demo
 
 
 ## Tech Stack
